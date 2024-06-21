@@ -1,6 +1,6 @@
 # Next.js App
 
-This app is deployed at: https://today-app-assignment-mb6g4dg13-devansh193s-projects.vercel.app/
+This app is deployed at: https://todaypay-assessment--hazel.vercel.app/
 
 ## Getting Started
 
@@ -18,12 +18,12 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/devansh193/todayApp-assignment.git
+   git clone https://github.com/shivamyadav05/todaypay-assessment
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd todayApp-assignment
+   cd todayPay-assignment
 
 4. **Install the dependencies:**
      ```bash
